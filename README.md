@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @D-Ratai
+- 👋 Hi, I’m Ratai
 - 👀 I’m interested in Nature, Fantasy Storys and Gaming
 - 🌱 I’m currently learning Unity and C#
 
